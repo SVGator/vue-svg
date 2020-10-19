@@ -8,4 +8,4 @@ This is a sample project of how to add an animated SVG to a Gatsby website.
 
 ## Start project
 
-`npm run start`
+`npm run serve`
