@@ -1,6 +1,6 @@
 # gatsby-svg
 
-This is a sample project of how to add an animated SVG to a Gatsby website.
+This is a sample project of how to add an animated SVG to a Vue app.
 
 ## Install
 
