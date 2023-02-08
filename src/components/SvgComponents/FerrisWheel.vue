@@ -14,7 +14,6 @@
         }
         player.ready(player => player.play());
         svg.addEventListener('click', () => {
-            debugger;
                 const speed = svg.svgatorPlayer.speed > 10 ? 0 : svg.svgatorPlayer.speed;
                 svg.svgatorPlayer.set('speed', speed + 1);
             }
