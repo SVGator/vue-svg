@@ -35,10 +35,7 @@ Fill the content of the blank VueJS file from the exported SVG file:
         // Note2: The <![CDATA[ from the beginning is not needed
         // Note3: The ]] from the end is also not needed
         // eg.:
-        !function(t,n){.....
-        this.__SVGATOR_PLAYER__.build({......
-        // Important: The 2nd row of the JS code has to be prefixed w/ "this.":
-        // __SVGATOR_PLAYER__ should be changed to this.__SVGATOR_PLAYER__
+        !function(t,n){.......}
       },
     };
     </script>
